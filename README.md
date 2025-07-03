@@ -1,3 +1,3 @@
 # state_ai_bills
 
-Currently the uploaded .zip file excludes the 10 or so largest bill files, which exceeded GitHub's limit for file size uploads. I plan to come back and upload those bills, as well as my raw analysis and code.
+`bill_texts` contains scrapes of the nominally AI-related bills available on the NCSL's website as of June 30, 2025. When multiple versions of the bill are available, the JSON contains each version, with a flag for which version is the latest, which is the version used for analysis purposes. I plan to come back and also add my analysis and code.
